@@ -1,5 +1,5 @@
 # YFJ Bot
- Code to ask YFJ Bot questions. 
+ Code to ask YFJ Bot questions. More info [here](https://greatreset2022.substack.com/p/5172023-introducing-yfj-bot)
 
 ## How to Run 
  * Open the yfj_bot.ipynb notebook
